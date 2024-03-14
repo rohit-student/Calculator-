@@ -1,2 +1,2 @@
 # Calculator-
-This is a weather made up of Html Css and Js
+This is a calculator app made up of Html Css and Js. 
