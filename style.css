@@ -1,0 +1,63 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Condensed:ital,wght@0,100..900;1,100..900&display=swap');
+
+html {
+  height: 100%;
+  width: 100%;
+  @import url('https://fonts.googleapis.com/css2?family=Nunito:ital,wght@0,200..1000;1,200..1000&family=Roboto+Condensed:ital,wght@0,100..900;1,100..900&display=swap')
+}
+
+
+.button {
+  padding: 20px;
+  margin: 0px 3px;
+  border: 2px solid black;
+  border-radius: 9px;
+  cursor: pointer;
+  font-size: 20px;
+  width: 66px;
+}
+
+.row {
+  margin: 8px 0px;
+
+}
+
+.row input {
+
+  margin: 0px;
+  padding: 10px 25px;
+  border: 3px solid green;
+  border-radius: 5px;
+  font-size: 20px;
+
+}
+
+/* input ::hover {
+  background-color: orangered;
+} */
+
+.color-orng {
+  background-color: orange;
+}
+
+.color-gry {
+  background-color: grey;
+}
+
+.color-sky {
+  background-color: skyblue;
+}
+
+.container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background-color: #d1d1d1;
+  border: 2px solid black;
+  border-radius: 10px;
+  width: 350px;
+  height: 450px;
+  margin: auto;
+  font-family: 'Roboto Condensed', sans-serif;
+}
